@@ -13,11 +13,6 @@
             q|===================|_|=_/o====+|=====[__]o====+|==[__]-p\
 _______________(_)(_)______(_)(_)_____\__/_\__/_\__/__\__/_\__/_(_)____\
 
-> ls
-  greeting.zzz
-
-> cat greeting.zzz
-
 Hey I'm Hugo 👋
 👨‍🎓 French Computer Science student at ESIEA (3/5 years)."
 
