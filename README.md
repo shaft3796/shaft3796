@@ -14,7 +14,7 @@
 _______________(_)(_)______(_)(_)_____\__/_\__/_\__/__\__/_\__/_(_)____\
 
 Hey I'm Hugo 👋
-👨‍🎓 French Computer Science student at ESIEA (3/5 years)."
+👨‍🎓 French Computer Science student at ESIEA (3/5 years).
 
 I am actively working on various projects in the field of algorithmic trading, 
 quantitative finance, data science and web3.
