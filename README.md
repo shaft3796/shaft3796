@@ -13,11 +13,7 @@
             q|===================|_|=_/o====+|=====[__]o====+|==[__]-p\
 _______________(_)(_)______(_)(_)_____\__/_\__/_\__/__\__/_\__/_(_)____\
 
-Hey I'm Hugo 👋
-👨‍🎓 French Computer Science student at ESIEA (3/5 years).
+Core contributor @Convedgence - Algorithmic Trading & Tech
 
-I am actively working on various projects in the field of algorithmic trading, 
-quantitative finance, data science and web3.
-
-Open to share => hugo.gg on discord
+We are actively looking for collaborators, if you are highly motivated and interested into algorithmic trading, feel free to reach me out on discord: hugo.gg
 ```
